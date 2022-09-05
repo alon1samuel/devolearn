@@ -17,7 +17,7 @@ Pillow
 pretrainedmodels==0.7.4
 pyparsing==2.4.7
 pytest==6.2.4
-python-dateutil==2.8.1
+python-dateutil>=2.8.1
 pytz
 PyWavelets==1.1.1
 scikit-image
